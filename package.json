@@ -1,0 +1,24 @@
+{
+  "name": "wedd",
+  "version": "0.0.1",
+  "description": "Test Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ru5k1/wedd.git"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "express": "^4.12.4"
+  },
+  "bugs": {
+    "url": "https://github.com/ru5k1/wedd/issues"
+  },
+  "homepage": "https://github.com/ru5k1/wedd#readme",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
